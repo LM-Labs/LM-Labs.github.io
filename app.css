@@ -107,14 +107,14 @@ body {
 }
 .point.header {
   font-family: headerContent;
-  font-size: 1.5em;
-  color: #fff;
+  font-size: 1em;
+  color: #9d9d9d;
   line-height: 120%;
 }
 .point.header:hover {
   font-family: headerContent;
-  font-size: 1.5em;
-  color: #59595b;
+  font-size: 1em;
+  color: #fff;
   line-height: 120%;
 }
 .toolCategory {
