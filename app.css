@@ -117,6 +117,19 @@ body {
   color: #fff;
   line-height: 120%;
 }
+.link {
+  transition: all 0.25s;
+  font-family: headerContent;
+  font-size: 2em;
+  color: #59595b;
+  line-height: 120%;
+}
+.link:hover {
+  font-family: headerContent;
+  font-size: 2em;
+  color: #bdd530;
+  line-height: 120%;
+}
 .toolCategory {
   transition: all 0.25s;
   font-family: bodyContent;
